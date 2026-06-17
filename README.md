@@ -25,7 +25,9 @@
 
 ---
 
-"Transformando aprendizado em código."
+## Linguagens
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFelipe005&layout=compact)
 
 <!--
 **JoaoFelipe005/JoaoFelipe005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
