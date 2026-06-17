@@ -3,7 +3,6 @@
 <p align="center">
   🎓 Estudante de Ciência da Computação <br>
   💻 Desenvolvedor em formação <br>
-  🚀 Apaixonado por tecnologia e aprendizado contínuo
 </p>
 
 ## Sobre mim
