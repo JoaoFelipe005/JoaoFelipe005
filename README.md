@@ -1,4 +1,31 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou João Felipe 👋</h1>
+
+<p align="center">
+  🎓 Estudante de Ciência da Computação <br>
+  💻 Desenvolvedor em formação <br>
+  🚀 Apaixonado por tecnologia e aprendizado contínuo
+</p>
+
+## Sobre mim
+
+- 📚 Cursando Ciência da Computação
+- ☕ Programando principalmente em Java
+- 🧠 Sempre aprendendo algo novo
+- 🎯 Buscando oportunidades para crescer na área de desenvolvimento
+
+## Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+
+---
+
+"Transformando aprendizado em código."
 
 <!--
 **JoaoFelipe005/JoaoFelipe005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
