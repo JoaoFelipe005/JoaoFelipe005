@@ -21,7 +21,7 @@
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoFelipe005&show_icons=true)
 
 ---
 
