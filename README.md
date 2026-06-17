@@ -23,8 +23,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoFelipe005&show_icons=true)
 
----
-
 ## Linguagens
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFelipe005&layout=compact)
